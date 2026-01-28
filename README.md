@@ -159,6 +159,11 @@ http://127.0.0.1:8000/docs
 }
 ```
 
+### Demo
+<video width="640" height="480" controls>
+  <source src="https://github.com/user-attachments/assets/56ce226a-b656-4a5e-934a-7566a15f23f0" type="video/mp4">
+</video>
+
 ---
 
 ## Tech Stack
