@@ -161,7 +161,7 @@ http://127.0.0.1:8000/docs
 
 ### Demo
 <video width="640" height="480" controls>
-  <source src="https://github.com/user-attachments/assets/56ce226a-b656-4a5e-934a-7566a15f23f0" type="video/mp4">
+  <source src="https://github-production-user-asset-6210df.s3.amazonaws.com/250616924/541758880-56ce226a-b656-4a5e-934a-7566a15f23f0.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260128%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260128T173643Z&X-Amz-Expires=300&X-Amz-Signature=44e892ced4311d44b25654e7993c12e8860d42ea72427bbd40642ff2ebf58b95&X-Amz-SignedHeaders=host" type="video/mp4">
 </video>
 
 ---
