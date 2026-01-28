@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments (Virtualenv, Conda)
+.venv/
+venv/
+env/
+bin/
+lib/
+include/
+uv.lock
+
+# PyCharm / JetBrains
+.idea/
+
+# FastAPI / Web
+.env
+*.log
+
+# Machine Learning & Data
+# (Excludes large datasets and model weights)
+data/
+*.csv
+*.json
+*.h5
+*.pkl
+*.pth
+*.onnx
+models/
+.ipynb_checkpoints/
