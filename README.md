@@ -1,7 +1,9 @@
 
-# 🏠 House Price Prediction System (Machine Learning + FastAPI)
+<img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/9c45d15b-77c2-4cb5-ad47-30795e612357" />
 
-## 📌 Project Overview
+# House Price Prediction System (Machine Learning + FastAPI)
+
+## Project Overview
 
 This project is an **end-to-end Machine Learning system** that predicts **house prices** based on neighborhood and housing features such as crime rate, number of rooms, pollution level, and socio-economic factors.
 
@@ -11,7 +13,7 @@ This project demonstrates **practical ML engineering skills**, not just model tr
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 House prices depend on many factors:
 
@@ -26,7 +28,7 @@ The goal is to **learn patterns from historical data** and predict the **median 
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 * **Source:** Boston Housing Dataset
 * **Records:** 506 houses
@@ -54,7 +56,7 @@ The goal is to **learn patterns from historical data** and predict the **median 
 
 ---
 
-## 🧠 Machine Learning Approach
+## Machine Learning Approach
 
 * **Problem Type:** Regression
 * **Algorithm:** Random Forest Regressor
@@ -66,7 +68,7 @@ The goal is to **learn patterns from historical data** and predict the **median 
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
 | Metric                     | Value |
 |----------------------------|-------|
@@ -81,7 +83,7 @@ This is **solid performance** for this dataset.
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 house-price-prediction/
@@ -105,7 +107,7 @@ house-price-prediction/
 
 ---
 
-## 🚀 FastAPI Integration
+## FastAPI Integration
 
 The trained model is exposed via a **REST API** using FastAPI.
 
@@ -129,7 +131,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🔌 Example API Input
+## Example API Input
 
 ```json
 {
@@ -159,7 +161,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * Python
 * Pandas, NumPy
@@ -170,7 +172,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 📌 Key Learnings
+## Key Learnings
 
 * Real-world data preprocessing
 * Feature importance analysis
@@ -181,7 +183,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Dockerize the application
 * Deploy on cloud (Render / AWS / Railway)
@@ -191,7 +193,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 👤 Author
+## Author
 
 **Ali Sulman** <br>
 Aspiring Machine Learning Engineer<br>
